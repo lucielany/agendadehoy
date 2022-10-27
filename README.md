@@ -1,2 +1,2 @@
 # agendadehoy
-Proyecto durante las prácticas de empresa
+Portal web para la gestion de eventos
